@@ -4,6 +4,7 @@ chmod +x Run/unistall.sh
 chmod +x Run/unduh.sh 
 chmod +x Run/start.sh 
 rm -rf Run.zip
+rm -rf docs
 ins=./Run/unduh.sh
 uni=./Run/unistall.sh
 st=./Run/start.sh
