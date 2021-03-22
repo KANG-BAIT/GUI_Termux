@@ -3,7 +3,6 @@
 <br>
 <br>
 <br>
-<a href="https://youtube.com/c/KangBaIT">
 ![GitHub Logo](/docs/20210322_094134.png)
 <br><br><br><br><br><br><br>
 
