@@ -1,3 +1,8 @@
+#Berkarya Sendiri Om Jangan Cuma Record
+#Jangan Di Rubah Om 
+#Hargai Developernya Om
+#Kalo Mau Mending Berkarya Bersama Om
+
 clear
 unzip Run.zip 
 chmod +x Run/unistall.sh 
