@@ -15,11 +15,11 @@
 
 
           GUI Termux
------------------------------
+-----------------------------------
 Tampilan Keren | Suport Web Browser
--------------- | ------------------
+
 Mudah Di Gunakan | Suport Text Editor
----------------- | ------------------
+
 
 
 
