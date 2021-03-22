@@ -61,8 +61,9 @@ $sh Run.sh
 <br><br>
 
 
+<h3>Upgrade</h3>
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+
+- [x] Penyelesaian Bug
+- [x] Upgrade Tools
+- [x] Tambahan Tampilan
