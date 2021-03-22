@@ -29,7 +29,7 @@ Suport Text Editor | Waktu Donwload Lama
 Suport Python | Kurang Enak Di Gunakan Di Hp Layar Kecil
 
 Tidak Memerlukan Root | Tidak Bisa Di Terminal Emulator Hanya Di Termux Saja
-
+----------------------------------------------
 
 
 
