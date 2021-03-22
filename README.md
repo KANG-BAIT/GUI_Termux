@@ -53,5 +53,7 @@ https://github.com/KANG-BAIT/GUI_Termux.git
 
 # Suport
 Bantu Suport Saya Di 
+<print></print>
 <a href="https://youtube.com/c/KangBaIT">Kang BaIT</a>
-<a href="kang-bait.blogspot.com
+<print></print>
+<a href="kang-bait.blogspot.com">Blog
