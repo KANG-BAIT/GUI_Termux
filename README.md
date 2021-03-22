@@ -42,5 +42,7 @@ Bisa Di Pasang Berbagai Tools | Terkadang Terjadi Kesalahan Saat Menyabung
 
 # Gandakan Repo
 
-<h5> 
+<h5>$https://github.com/KANG-BAIT/GUI_Termux.git
+<h5>$cd GUI_Termux
+<h5>$sh Run.sh
 
