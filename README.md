@@ -23,7 +23,7 @@
 
 
 
-✅Kelebihan | ❌Kelemahan   
+**✅Kelebihan | ❌Kelemahan 
 ----------- | -----------
 Tampilan Keren | Hanya Bisa di Android 7 
 Suport Web Browser | Memerlukan Banyak Ruang
@@ -35,6 +35,7 @@ Bisa Membaca Info Sistem | Agak Sulit Mengubah Tampilan
 Bisa Di Pasang Berbagai Tools | Terkadang Terjadi Kesalahan Saat Menyabung
 
 
+#Note
 
 
 
