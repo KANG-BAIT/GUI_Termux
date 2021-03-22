@@ -45,7 +45,7 @@ https://github.com/KANG-BAIT/GUI_Termux.git
 
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 # Suport
 >Bantu Suport Saya Di 
