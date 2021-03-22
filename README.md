@@ -35,9 +35,9 @@ Bisa Membaca Info Sistem | Agak Sulit Mengubah Tampilan
 Bisa Di Pasang Berbagai Tools | Terkadang Terjadi Kesalahan Saat Menyabung
 
 
-#Note
+# Note
 
-**Proyek Ini Baru Saja Di Buat Dan Kami Mengembangkan Lagi Jika Ada Bug Segera Report
+** Proyek Ini Baru Saja Di Buat Dan Kami Mengembangkan Lagi Jika Ada Bug Segera Report
 
 
 
