@@ -38,7 +38,6 @@ Bisa Di Pasang Berbagai Tools | Terkadang Terjadi Kesalahan Saat Menyabung
 # Gandakan Repo
 
 $git clone
-
 https://github.com/KANG-BAIT/GUI_Termux.git
 
 
