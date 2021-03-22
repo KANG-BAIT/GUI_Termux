@@ -1,5 +1,3 @@
-<table border="1">
-
 # GUI_Termux
 <br><br>
 <h4>Build a GUI in termux to experience using Windows on Android Linux
@@ -39,11 +37,11 @@ Bisa Di Pasang Berbagai Tools | Terkadang Terjadi Kesalahan Saat Menyabung
 
 # Gandakan Repo
 
-<h5>$git clone
+$git clone
 
 https://github.com/KANG-BAIT/GUI_Termux.git
-<h5>$cd GUI_Termux
-<h5>$sh Run.sh
+$cd GUI_Termux
+$sh Run.sh
 
 
 
