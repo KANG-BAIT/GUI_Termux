@@ -17,9 +17,9 @@
     GUI Termux
 --------------------------------
 
----------------------------------------
-   Kelebihan      |      Kelemahan  
------------------ | -------------------
+------------------------------------------------
+   Kelebihan           |          Kelemahan        
+---------------------- | -----------------------
 Tampilan Keren | Android 7 
 
 Suport Web Browser | Memerlukan Banyak Ruang
