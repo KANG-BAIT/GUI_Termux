@@ -25,6 +25,7 @@ Tidak Memerlukan Root | Tidak Bisa Di Terminal Emulator Hanya Di Termux Saja
 Suport Email | Kyboard Kurang Enak
 Bisa Membaca Info Sistem | Agak Sulit Mengubah Tampilan
 Bisa Di Pasang Berbagai Tools | Terkadang Terjadi Kesalahan Saat Menyabung
+Semua Pengistallan Di lakukan Secara Otomatis | 
 
 <br>
 <br>
