@@ -32,6 +32,7 @@ Bisa Di Pasang Berbagai Tools | Terkadang Terjadi Kesalahan Saat Menyabung
 
 <h4>Proyek Ini Baru Saja Di Buat Dan Kami Mengembangkan Lagi Jika Ada Bug Segera Report
 
+<br><br><br>
 
 # Gandakan Repo
 
@@ -44,6 +45,7 @@ https://github.com/KANG-BAIT/GUI_Termux.git
 
 
 
+<br><br><br><br><br>
 
 # Suport
 >Bantu Suport Saya Di 
