@@ -47,4 +47,11 @@ https://github.com/KANG-BAIT/GUI_Termux.git
 <h5>$cd GUI_Termux
 <h5>$sh Run.sh
 
-<a href="https://youtube.com/c/KangBaIT">Chanel Kang BaIT</a>
+
+
+
+
+# Suport
+Bantu Suport Saya Di 
+<a href="https://youtube.com/c/KangBaIT">Kang BaIT</a>
+<a href="kang-bait.blogspot.com
