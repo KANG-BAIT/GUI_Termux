@@ -1,3 +1,5 @@
+<table border="1">
+
 # GUI_Termux
 <br><br>
 <h4>Build a GUI in termux to experience using Windows on Android Linux
@@ -56,3 +58,4 @@ https://github.com/KANG-BAIT/GUI_Termux.git
 
 
 <h3>@<a href="kang-bait.blogspot.com">Blog</a>
+</table>
