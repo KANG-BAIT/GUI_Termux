@@ -14,8 +14,8 @@
 # Filtur
 
 
-       GUI Termux
---------------------------
+      <h3> GUI Termux
+-------------- | ---------------
 Tampilan Keren | Suport Web Browser
 Mudah Di Gunakan | Suport Text Editor
 
