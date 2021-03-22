@@ -62,6 +62,6 @@ $sh Run.sh
 
 
 <h3>Upgrade</h3>
-- [x]Penyelesaian Bug
-- [x]Penambahan Tools
-- [x]Tambahan Tampilan
+- [x] Penyelesaian Bug
+- [x] Penambahan Tools
+- [x] Tambahan Tampilan
