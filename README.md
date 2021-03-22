@@ -55,5 +55,7 @@ https://github.com/KANG-BAIT/GUI_Termux.git
 Bantu Suport Saya Di 
 
 <a href="https://youtube.com/c/KangBaIT">Chanel Kang BaIT</a>
-'<addr>'
+
+
+
 <a href="kang-bait.blogspot.com">Blog</a>
