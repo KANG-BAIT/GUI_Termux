@@ -64,7 +64,7 @@ $sh Run.sh
 <br><br><br><br>
 
 
-<h3>Upgrade</h3>
+<h3>Upgrade Mendatang</h3>
 
 
 - [x] Penyelesaian Bug
