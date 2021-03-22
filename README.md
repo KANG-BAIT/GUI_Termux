@@ -58,6 +58,10 @@ $sh Run.sh
 
 <h3>@<a href="kang-bait.blogspot.com">Blog</a>
 </table>
+<br><br>
 
 
--[x]
+<h3>Upgrade</h3>
+- [x]Penyelesaian Bug
+- [x]Penambahan Tools
+- [x]Tambahan Tampilan
