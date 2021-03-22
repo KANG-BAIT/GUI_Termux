@@ -14,9 +14,6 @@
 # Filtur
 
 
- <h2>GUI Termux<h2>
----------------------
-
 
 Kelebihan | Kelemahan   
 --------- | ---------
