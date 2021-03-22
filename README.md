@@ -15,8 +15,8 @@
 
 
 
-Kelebihan | Kelemahan   
---------- | ---------
+✅Kelebihan | ❌Kelemahan   
+----------- | -----------
 ✅Tampilan Keren | ❌Hanya Bisa di Android 7 
 ✅Suport Web Browser | ❌Memerlukan Banyak Ruang
 ✅Suport Text Editor | ❌Waktu Donwload Lama
