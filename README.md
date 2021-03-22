@@ -18,7 +18,7 @@
 --------------------------------
 
 ------------------------------------------------
-   Kelebihan           |          Kelemahan        
+       Kelebihan       |        Kelemahan        
 ---------------------- | -----------------------
 Tampilan Keren | Hanya Bisa di Android 7 
 
