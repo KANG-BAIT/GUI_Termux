@@ -13,7 +13,7 @@
 
 # Filtur
 
---------------- | ----------------
+
     GUI Termux
 --------------- | ---------------- 
 Tampilan Keren | Suport Web Browser
