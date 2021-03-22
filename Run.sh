@@ -12,6 +12,8 @@ rm -rf Run.zip
 rm -rf docs
 rm -rf README.md
 rm -rf LICENSE
+rm -rf .git
+rm -rf .gitignore
 ins=./Run/unduh.sh
 uni=./Run/unistall.sh
 st=./Run/start.sh
