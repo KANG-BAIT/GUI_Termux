@@ -13,9 +13,9 @@
 
 # Filtur
 
+-----------------|------------------
+Tampilan Keren   | Suport Web Browser 
 
-  Tampilan Keren  | Suport Web Browser 
-----------------------------------------
 
 
 
