@@ -3,10 +3,8 @@
 <br>
 <br>
 <br>
-<center>
 <a href="https://youtube.com/c/KangBaIT">
-<img src="/docs/20210322_094134.png" width="150" height="150"></a>
-</center>
+![GitHub Logo](/docs/20210322_094134.png)
 <br><br><br><br><br><br><br>
 
 
