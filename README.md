@@ -1,36 +1,10 @@
 # GUI_Termux
 <h4>Build a GUI in termux to experience using Windows on Android Linux
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="/docs/20210322_094134.png">
-
+<br>
+<br>
+<br>
+<a href="https://youtube.com/c/KangBaIT">
+<img src="/docs/20210322_094134.png" width="100" height="100"></a>
 
 
 
