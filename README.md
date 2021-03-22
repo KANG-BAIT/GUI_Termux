@@ -17,8 +17,9 @@
     GUI Termux
 --------------------------------
 
-      Kelebihan    |     Kelemahan      
------------------  |  -----------------
+---------------------------------
+   Kelebihan    |     Kelemahan  
+--------------  |  --------------
 Tampilan Keren | Suport Web Browser
 
 Mudah Di Gunakan | Suport Text Editor
