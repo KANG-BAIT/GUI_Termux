@@ -3,9 +3,11 @@
 <br>
 <br>
 <br>
+<center>
 <a href="https://youtube.com/c/KangBaIT">
-<img src="/docs/20210322_094134.png" width="100" height="100"></a>
-
+<img src="/docs/20210322_094134.png" width="150" height="150"></a>
+</center>
+<br><br><br><br><br><br><br>
 
 
 # Filtur
