@@ -66,5 +66,5 @@ $sh Run.sh
 
 
 - [x] Penyelesaian Bug
-- [x] Upgrade Tools
+- [x] Tambahan Tools Baru
 - [x] Tambahan Tampilan
