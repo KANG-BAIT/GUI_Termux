@@ -55,12 +55,10 @@ $sh Run.sh
 # Suport
 >Bantu Suport Saya Di 
 
-<h3>@<a href="https://youtube.com/c/KangBaIT">Chanel Kang BaIT</a>
+<h4>@<a href="https://youtube.com/c/KangBaIT">Chanel Saya</a></h4>
 
 
-
-<h3>@<a href="kang-bait.blogspot.com">Blog</a>
-</table>
+<h4>@<a href="https://kang-bait.blogspot.com">Blog Saya</a></h4>
 <br><br><br><br>
 
 
