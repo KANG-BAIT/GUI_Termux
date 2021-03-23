@@ -30,13 +30,13 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 <br>
 <br>
 
-<h3>Note
+<h3>Note</h3>
 
 <h4>Proyek Ini Baru Saja Di Buat Dan Kami Mengembangkan Lagi Jika Ada Bug Segera Report
 
 <br><br><br>
 
-<h3>Gandakan Repo
+<h3>Gandakan Repo</h3>
 
 $git clone
 https://github.com/KANG-BAIT/GUI_Termux.git
@@ -52,7 +52,7 @@ $sh Run.sh
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<h3>Suport
+<h3>Suport</h3>
 
 >Bantu Suport Saya Di 
 
