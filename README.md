@@ -42,6 +42,7 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 git clone https://github.com/KANG-BAIT/GUI_Termux.git
 ------------------------------------------------------
 $cd GUI_Termux
+
 --------------------------------------------------------
 sh Run.sh   
 ----------------------------------------
