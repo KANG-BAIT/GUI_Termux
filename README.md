@@ -38,14 +38,11 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 
 <h3>Gandakan Repo</h3>
 
+---------------------------------------------------------
 $git clone<br>https://github.com/KANG-BAIT/GUI_Termux.git
-
-
 $cd GUI_Termux
-
-
 $sh Run.sh
-
+---------------------------------------------------------
 
 
 
