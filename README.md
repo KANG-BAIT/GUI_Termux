@@ -36,7 +36,7 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 
 <br><br><br>
 
-Gandakan Repo
+     Gandakan Repo
 --------------------------------------------------------
 
 
