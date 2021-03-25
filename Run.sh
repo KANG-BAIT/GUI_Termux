@@ -8,6 +8,7 @@ unzip Run.zip
 chmod +x Run/unistall.sh 
 chmod +x Run/unduh.sh 
 chmod +x Run/start.sh 
+rm -rf Iklan.yml
 rm -rf Run.zip
 rm -rf docs
 rm -rf README.md
