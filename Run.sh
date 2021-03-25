@@ -20,6 +20,7 @@ read -p "[+] Do you want to continue? [Y/n]"it
 case $it in
 y);;
 n)exit;;
+esac
 unzip Run.zip 
 chmod +x Run/unistall.sh 
 chmod +x Run/unduh.sh 
