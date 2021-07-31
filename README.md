@@ -46,6 +46,8 @@ Semua Pengistallan Di lakukan Secara Otomatis |
 
 <br><br><br><br><br><br><br><br><br><br>
 
+<a href="https://bait-linux.000webhostapp.com/">Projek Ini Di Pindahkan</a>
+
 <h3>Suport</h3>
 
 >Bantu Suport Saya Di 
